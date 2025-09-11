@@ -19,3 +19,6 @@
 	path = l10n
 	url = https://github.com/koreader/koreader-translations.git
 	shallow = true
+[submodule "plugins/highlightsync.koplugin"]
+	path = plugins/highlightsync.koplugin
+	url = https://github.com/WoHal/highlightsync.koplugin.git
